@@ -22,7 +22,7 @@ curl -X GET https://api.sportradar.com/handball/trial/v2/en/seasons/$SEASON_ID/i
     --header "x-api-key: ${SPORTRADAR_API}" \
     -o season_info.xml
 
-#sed -i 's|xmlns="http://schemas.sportradar.com/sportsapi/handball/v2"||' season_info.xml
+sed -i 's|xmlns="http://schemas.sportradar.com/sportsapi/handball/v2"||' season_info.xml
 
 
 curl -X GET https://api.sportradar.com/handball/trial/v2/en/seasons/$SEASON_ID/standings.xml \
@@ -30,5 +30,13 @@ curl -X GET https://api.sportradar.com/handball/trial/v2/en/seasons/$SEASON_ID/s
     --header "x-api-key: ${SPORTRADAR_API}" \
     -o season_standings_prev.xml
 
-#sed -i 's|xmlns="http://schemas.sportradar.com/sportsapi/handball/v2"||' season_standings_prev.xml
+sed -i 's|xmlns="http://schemas.sportradar.com/sportsapi/handball/v2"||' season_standings_prev.xml
 
+
+java net.sf.saxon.Query extract_handball_data.xq > handball_data.xml
+
+
+java net.sf.saxon.Transform -s:handball_data.xml -xsl:generate_fo.xsl -o:handball_page.fo
+
+
+fop -fo handball_page.fo -pdf handball_report.pdf
