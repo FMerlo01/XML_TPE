@@ -3,6 +3,7 @@
 Este proyecto genera un resumen en PDF de una temporada de handball,  
 a partir de datos obtenidos desde la API de Sportradar en formato XML.
 
+
 ## Archivos
 
 - `program.sh`: Script que automatiza la descarga de datos, procesamiento y generación del PDF.
@@ -12,11 +13,21 @@ a partir de datos obtenidos desde la API de Sportradar en formato XML.
 - `handball_page.fo`: Documento intermedio FO, generado por la transformación XSLT.
 - `handball_report.pdf`: Informe final en PDF con los standings y detalles de los equipos.
 
+
+## Compilación
+
+Desde una terminal con Java, Saxon y FOP instalados, ejecutar:
+
+- export SPORTRADAR_API=(su api key)
+
+- ./tpe.sh "Champions"
+
+
 ## Integrantes
 
 - **Felipe Merlo**  
   - Mail: fmerlo@itba.edu.ar  
-  - Legajo:
+  - Legajo: 65736
 
 - **Juan Cruz Procaccini**  
   - Mail: jprocaccini@itba.edu.ar  
@@ -25,11 +36,3 @@ a partir de datos obtenidos desde la API de Sportradar en formato XML.
 - **Máximo Ramos**  
   - Mail: maramos@itba.edu.ar  
   - Legajo: 64082
-
-## Compilación
-
-Desde una terminal con Java, Saxon y FOP instalados, ejecutar:
-
-- export SPORTRADAR_API=(su api key)
-
-- ./program.sh "Champions"
