@@ -29,12 +29,17 @@
           </fo:block>
 
           <fo:block font-weight="bold" space-before="10pt">Standings:</fo:block>
-          
-          <xsl:for-each select="standings/team">
-            <fo:block>
-              <xsl:value-of select="rank"/>. 
-              <xsl:value-of select="name"/>
+
+          <xsl:for-each select="competitors/competitor">
+            <fo:block font-weight="bold" space-before="8pt" font-size="12pt">
+              <xsl:value-of select="@name"/> (<xsl:value-of select="@country"/>)
             </fo:block>
+            
+            <xsl:for-each select="standings/standing">
+              <fo:block font-size="10pt" space-before="2pt">
+                <xsl:value-of select="@group_name_code"/> - Rank: <xsl:value-of select="@rank"/>, Points: <xsl:value-of select="@points"/>
+              </fo:block>
+            </xsl:for-each>
           </xsl:for-each>
 
         </fo:flow>

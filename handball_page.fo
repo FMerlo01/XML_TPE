@@ -2,9 +2,9 @@
 <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
    <fo:layout-master-set>
       <fo:simple-page-master master-name="A4"
-                              page-height="29.7cm"
-                              page-width="21cm"
-                              margin="2cm">
+                             page-height="29.7cm"
+                             page-width="21cm"
+                             margin="2cm">
          <fo:region-body/>
       </fo:simple-page-master>
    </fo:layout-master-set>
@@ -13,8 +13,92 @@
          <fo:block font-size="14pt" font-weight="bold" space-after="10pt">
             Handball Season Summary
           </fo:block>
-         <fo:block>Season:  ()</fo:block>
+         <fo:block>Season: Champions League 22/23 (22/23)</fo:block>
          <fo:block font-weight="bold" space-before="10pt">Standings:</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">Veszprem KC (Hungary)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 3, Points: 18</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">SC Magdeburg (Germany)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 2, Points: 20</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">Wisla Plock (Poland)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 6, Points: 9</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">RK Zagreb (Croatia)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 7, Points: 8</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">GOG Handbold (Denmark)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 4, Points: 15</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">Paris Saint-Germain (France)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 1, Points: 24</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">CS Dinamo Bucuresti (Romania)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 5, Points: 13</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">FC Porto (Portugal)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 8, Points: 5</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">RK Celje (Slovenia)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 7, Points: 6</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">THW Kiel (Germany)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 4, Points: 15</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">SC Szeged (Hungary)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 6, Points: 11</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">KS Iskra Kielce (Poland)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 2, Points: 22</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">FC Barcelona (Spain)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 1, Points: 27</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">Aalborg Haandbold (Denmark)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 5, Points: 13</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">Elverum Handball (Norway)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 8, Points: 3</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">HBC Nantes (France)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 3, Points: 15</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">FC Barcelona (Spain)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 1, Points: 27</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">THW Kiel (Germany)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 4, Points: 15</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">SC Magdeburg (Germany)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 2, Points: 20</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">Aalborg Haandbold (Denmark)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 5, Points: 13</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">GOG Handbold (Denmark)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 4, Points: 15</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">Wisla Plock (Poland)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 6, Points: 9</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">Paris Saint-Germain (France)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 1, Points: 24</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">Veszprem KC (Hungary)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 3, Points: 18</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">SC Szeged (Hungary)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 6, Points: 11</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">CS Dinamo Bucuresti (Romania)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">A - Rank: 5, Points: 13</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">KS Iskra Kielce (Poland)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 2, Points: 22</fo:block>
+         <fo:block font-weight="bold" space-before="8pt" font-size="12pt">HBC Nantes (France)
+            </fo:block>
+         <fo:block font-size="10pt" space-before="2pt">B - Rank: 3, Points: 15</fo:block>
       </fo:flow>
    </fo:page-sequence>
 </fo:root>
