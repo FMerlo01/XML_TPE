@@ -15,14 +15,14 @@
    </fo:layout-master-set>
    <fo:page-sequence master-reference="first">
       <fo:static-content flow-name="xsl-region-before">
-         <fo:block line-height="14pt" font-size="10pt" text-align="end">International Handball season for men - 22/23</fo:block>
+         <fo:block line-height="14pt" font-size="10pt" text-align="end">International Handball season for women - 22/23</fo:block>
       </fo:static-content>
       <fo:flow flow-name="xsl-region-body">
          <fo:block font-size="16pt"
                    space-before.optimum="15pt"
                    space-after.optimum="18pt">
-            Competitors of Champions League 22/23</fo:block>
-         <fo:block font-size="12pt">Veszprem KC (Hungary)</fo:block>
+            Competitors of Champions League Women 22/23</fo:block>
+         <fo:block font-size="12pt">Ferencvarosi TC (Hungary)</fo:block>
          <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
             <fo:table-column column-number="1" column-width="40%"/>
             <fo:table-column column-number="2" column-width="7%"/>
@@ -61,267 +61,7 @@
                </fo:table-row>
                <fo:table-row>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">8</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">4</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">2</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">20</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">18</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">SC Magdeburg (Germany)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">2</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">9</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">2</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">34</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">20</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">Wisla Plock (Poland)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">4</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">9</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-38</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">9</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">RK Zagreb (Croatia)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">7</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">9</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">2</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-30</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">8</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">GOG Handbold (Denmark)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">4</fo:block>
@@ -339,7 +79,7 @@
                      <fo:block font-size="8pt" text-align="center">1</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
+                     <fo:block font-size="8pt" text-align="center">33</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">15</fo:block>
@@ -347,7 +87,7 @@
                </fo:table-row>
             </fo:table-body>
          </fo:table>
-         <fo:block font-size="12pt">Paris Saint-Germain (France)</fo:block>
+         <fo:block font-size="12pt">RK Krim Ljubljana (Slovenia)</fo:block>
          <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
             <fo:table-column column-number="1" column-width="40%"/>
             <fo:table-column column-number="2" column-width="7%"/>
@@ -386,415 +126,90 @@
                </fo:table-row>
                <fo:table-row>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                     <fo:block font-size="8pt" text-align="center">5</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">8</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-6</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">12</fo:block>
                   </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">CSM Bucuresti (Romania)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
+                  </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">2</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">10</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">53</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">24</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">CS Dinamo Bucuresti (Romania)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-13</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">13</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">FC Porto (Portugal)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">8</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">2</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">11</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-31</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">RK Celje (Slovenia)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">7</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">11</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">0</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-63</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">THW Kiel (Germany)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">4</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">20</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">15</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">SC Szeged (Hungary)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">8</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-26</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">11</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">KS Iskra Kielce (Poland)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">2</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">11</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">0</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">38</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">22</fo:block>
@@ -802,7 +217,7 @@
                </fo:table-row>
             </fo:table-body>
          </fo:table>
-         <fo:block font-size="12pt">FC Barcelona (Spain)</fo:block>
+         <fo:block font-size="12pt">Brest Bretagne HB ()</fo:block>
          <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
             <fo:table-column column-number="1" column-width="40%"/>
             <fo:table-column column-number="2" column-width="7%"/>
@@ -841,163 +256,33 @@
                </fo:table-row>
                <fo:table-row>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">13</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">0</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">80</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">27</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">Aalborg Haandbold (Denmark)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">6</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">7</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">7</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">13</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">Elverum Handball (Norway)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">8</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">14</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                     <fo:block font-size="8pt" text-align="center">5</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">7</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-1</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">12</fo:block>
                   </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-83</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
                </fo:table-row>
             </fo:table-body>
          </fo:table>
-         <fo:block font-size="12pt">HBC Nantes (France)</fo:block>
+         <fo:block font-size="12pt">HB Ludwigsburg (Germany)</fo:block>
          <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
             <fo:table-column column-number="1" column-width="40%"/>
             <fo:table-column column-number="2" column-width="7%"/>
@@ -1036,488 +321,33 @@
                </fo:table-row>
                <fo:table-row>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">7</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">27</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">15</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">FC Barcelona (Spain)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">13</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">0</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">80</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">27</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">THW Kiel (Germany)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">4</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">5</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">20</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">15</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">SC Magdeburg (Germany)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
+                     <fo:block font-size="8pt" text-align="center">7</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">2</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">9</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">2</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">34</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">20</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">Aalborg Haandbold (Denmark)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">7</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">7</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">13</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">GOG Handbold (Denmark)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">4</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">7</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">15</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">Wisla Plock (Poland)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">4</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">9</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-38</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">9</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">Paris Saint-Germain (France)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">1</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                     <fo:block font-size="8pt" text-align="center">44</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">12</fo:block>
                   </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">2</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">0</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">53</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">24</fo:block>
-                  </fo:table-cell>
                </fo:table-row>
             </fo:table-body>
          </fo:table>
-         <fo:block font-size="12pt">Veszprem KC (Hungary)</fo:block>
+         <fo:block font-size="12pt">Vipers Kristiansand (Norway)</fo:block>
          <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
             <fo:table-column column-number="1" column-width="40%"/>
             <fo:table-column column-number="2" column-width="7%"/>
@@ -1556,98 +386,33 @@
                </fo:table-row>
                <fo:table-row>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">3</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">8</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">4</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">2</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">20</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">18</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-            </fo:table-body>
-         </fo:table>
-         <fo:block font-size="12pt">SC Szeged (Hungary)</fo:block>
-         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
-            <fo:table-column column-number="1" column-width="40%"/>
-            <fo:table-column column-number="2" column-width="7%"/>
-            <fo:table-column column-number="3" column-width="7%"/>
-            <fo:table-column column-number="4" column-width="7%"/>
-            <fo:table-column column-number="5" column-width="7%"/>
-            <fo:table-column column-number="6" column-width="7%"/>
-            <fo:table-column column-number="7" column-width="7%"/>
-            <fo:table-column column-number="8" column-width="7%"/>
-            <fo:table-body border-width="1pt" border-style="solid">
-               <fo:table-row background-color="rgb(215,245,250)">
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
-                  </fo:table-cell>
-               </fo:table-row>
-               <fo:table-row>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">8</fo:block>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">1</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-26</fo:block>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">11</fo:block>
                   </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">83</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">23</fo:block>
+                  </fo:table-cell>
                </fo:table-row>
             </fo:table-body>
          </fo:table>
-         <fo:block font-size="12pt">CS Dinamo Bucuresti (Romania)</fo:block>
+         <fo:block font-size="12pt">HC Odense (Denmark)</fo:block>
          <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
             <fo:table-column column-number="1" column-width="40%"/>
             <fo:table-column column-number="2" column-width="7%"/>
@@ -1686,33 +451,33 @@
                </fo:table-row>
                <fo:table-row>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group A</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">14</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">5</fo:block>
-                  </fo:table-cell>
-                  <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">3</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">-13</fo:block>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">13</fo:block>
+                     <fo:block font-size="8pt" text-align="center">8</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">25</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">16</fo:block>
                   </fo:table-cell>
                </fo:table-row>
             </fo:table-body>
          </fo:table>
-         <fo:block font-size="12pt">KS Iskra Kielce (Poland)</fo:block>
+         <fo:block font-size="12pt">DHK Banik Most (Czechia)</fo:block>
          <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
             <fo:table-column column-number="1" column-width="40%"/>
             <fo:table-column column-number="2" column-width="7%"/>
@@ -1751,7 +516,72 @@
                </fo:table-row>
                <fo:table-row>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">8</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-231</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Gyori ETO KC (Hungary)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">2</fo:block>
@@ -1769,7 +599,7 @@
                      <fo:block font-size="8pt" text-align="center">0</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">38</fo:block>
+                     <fo:block font-size="8pt" text-align="center">97</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">22</fo:block>
@@ -1777,7 +607,7 @@
                </fo:table-row>
             </fo:table-body>
          </fo:table>
-         <fo:block font-size="12pt">HBC Nantes (France)</fo:block>
+         <fo:block font-size="12pt">Lokomotiva Zagreb (Croatia)</fo:block>
          <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
             <fo:table-column column-number="1" column-width="40%"/>
             <fo:table-column column-number="2" column-width="7%"/>
@@ -1816,10 +646,660 @@
                </fo:table-row>
                <fo:table-row>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">EHF Champions League 22/23, Group B</fo:block>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">8</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">13</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-139</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Metz Handball (France)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">12</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">77</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">25</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">ZRK Buducnost (Montenegro)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">5</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">7</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-28</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">13</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Team Esbjerg (Denmark)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">3</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">10</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">4</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">88</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">20</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Kastamonu GSK (Turkiye)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">7</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">12</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-103</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">3</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Storhamar HE (Norway)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">4</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">10</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-29</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">8</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">CS Rapid Bucuresti (Romania)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">4</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">9</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">3</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">37</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">20</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Vipers Kristiansand (Norway)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">11</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">83</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">23</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Team Esbjerg (Denmark)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">3</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">10</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">4</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">88</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">20</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Metz Handball (France)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">12</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">77</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">25</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Ferencvarosi TC (Hungary)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">4</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">14</fo:block>
@@ -1834,10 +1314,530 @@
                      <fo:block font-size="8pt" text-align="center">1</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
-                     <fo:block font-size="8pt" text-align="center">27</fo:block>
+                     <fo:block font-size="8pt" text-align="center">33</fo:block>
                   </fo:table-cell>
                   <fo:table-cell>
                      <fo:block font-size="8pt" text-align="center">15</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Gyori ETO KC (Hungary)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">11</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">3</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">97</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">22</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">RK Krim Ljubljana (Slovenia)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">5</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">8</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">12</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">ZRK Buducnost (Montenegro)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">5</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">7</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-28</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">13</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Storhamar HE (Norway)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">4</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">10</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-29</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">8</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">CS Rapid Bucuresti (Romania)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group B</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">4</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">9</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">3</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">37</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">20</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">HC Odense (Denmark)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">3</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">8</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">0</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">25</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">16</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">CSM Bucuresti (Romania)</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">10</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">53</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">22</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+            </fo:table-body>
+         </fo:table>
+         <fo:block font-size="12pt">Brest Bretagne HB ()</fo:block>
+         <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
+            <fo:table-column column-number="1" column-width="40%"/>
+            <fo:table-column column-number="2" column-width="7%"/>
+            <fo:table-column column-number="3" column-width="7%"/>
+            <fo:table-column column-number="4" column-width="7%"/>
+            <fo:table-column column-number="5" column-width="7%"/>
+            <fo:table-column column-number="6" column-width="7%"/>
+            <fo:table-column column-number="7" column-width="7%"/>
+            <fo:table-column column-number="8" column-width="7%"/>
+            <fo:table-body border-width="1pt" border-style="solid">
+               <fo:table-row background-color="rgb(215,245,250)">
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Group</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Rank</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Played</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Wins</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Loss</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Draws</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Goals Diff</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">Points</fo:block>
+                  </fo:table-cell>
+               </fo:table-row>
+               <fo:table-row>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">EHF Champions League, Women 22/23, Group A</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">6</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">14</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">5</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">7</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">2</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">-1</fo:block>
+                  </fo:table-cell>
+                  <fo:table-cell>
+                     <fo:block font-size="8pt" text-align="center">12</fo:block>
                   </fo:table-cell>
                </fo:table-row>
             </fo:table-body>
