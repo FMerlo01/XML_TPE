@@ -20,7 +20,7 @@ Desde una terminal con Java, Saxon y FOP instalados, ejecutar:
 
 - export SPORTRADAR_API=(su api key)
 
-- ./tpe.sh "Champions"
+- ./tpe.sh <Prefijo>
 
 
 ## Integrantes
