@@ -2,12 +2,12 @@
 <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
    <fo:layout-master-set>
       <fo:simple-page-master master-name="first"
-                             margin-right="1.5cm"
-                             margin-left="1.5cm"
-                             margin-bottom="2cm"
-                             margin-top="1cm"
-                             page-width="21cm"
-                             page-height="29.7cm">
+                              margin-right="1.5cm"
+                              margin-left="1.5cm"
+                              margin-bottom="2cm"
+                              margin-top="1cm"
+                              page-width="21cm"
+                              page-height="29.7cm">
          <fo:region-body margin-top="1cm"/>
          <fo:region-before extent="1cm"/>
          <fo:region-after extent="1.5cm"/>
@@ -19,8 +19,8 @@
       </fo:static-content>
       <fo:flow flow-name="xsl-region-body">
          <fo:block font-size="16pt"
-                   space-before.optimum="15pt"
-                   space-after.optimum="18pt">
+                    space-before.optimum="15pt"
+                    space-after.optimum="18pt">
             Competitors of Champions League Women 22/23</fo:block>
          <fo:block font-size="12pt">Ferencvarosi TC (Hungary)</fo:block>
          <fo:table space-after.optimum="18pt" table-layout="fixed" width="100%">
